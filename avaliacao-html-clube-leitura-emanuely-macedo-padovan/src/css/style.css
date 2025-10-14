@@ -1,4 +1,21 @@
 h1 {
     text-align: center;
-    color: rgb(43, 80, 226);
+    color: rgb(64, 93, 211);;
+}
+
+img {
+    height: 350px;
+}
+
+body {
+    background-color: rgb(222, 235, 245);
+}
+
+table {
+    width: 70%;
+    border: 1px solid black;
+}
+
+table th {
+    text-align: center;
 }
